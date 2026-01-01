@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Pila de leña para el asado",
+      "imageUrl": "https://images.unsplash.com/photo-1703715313854-5cf242ea3298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmaXJld29vZCUyMHN0YWNrfGVufDB8fHx8MTc2NzE4NjU3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "firewood stack"
+    },
+    {
+      "id": "about-storage",
+      "description": "Bodega de La Leñera con stock de leña",
+      "imageUrl": "https://images.unsplash.com/photo-1766789900138-029f078a3b50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmaXJld29vZCUyMHN0b3JhZ2V8ZW58MHx8fHwxNzY3MjEwNDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "firewood storage"
+    },
+    {
+      "id": "wood-oak",
+      "description": "Leña de roble cortada",
+      "imageUrl": "https://images.unsplash.com/photo-1665709184290-545371c11764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b2FrJTIwd29vZHxlbnwwfHx8fDE3NjcyMTA0NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oak wood"
+    },
+    {
+      "id": "wood-mesquite",
+      "description": "Leña de mezquite",
+      "imageUrl": "https://images.unsplash.com/photo-1763023852856-5a26fe46d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtZXNxdWl0ZSUyMHdvb2R8ZW58MHx8fHwxNzY3MjEwNDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mesquite wood"
+    },
+    {
+      "id": "wood-apple",
+      "description": "Leña de manzano",
+      "imageUrl": "https://images.unsplash.com/photo-1664730021944-99c707e157b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXBwbGUlMjB3b29kfGVufDB8fHx8MTc2NzIxMDQ2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "apple wood"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Asado de carne en la parrilla",
+      "imageUrl": "https://images.unsplash.com/photo-1558030054-9e08299a4d4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYXJiZWN1ZSUyMHN0ZWFrfGVufDB8fHx8MTc2NzIxMDQ2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "barbecue steak"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Pollo a la parrilla",
+      "imageUrl": "https://images.unsplash.com/photo-1712579733874-c3a79f0f9d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmlsbGVkJTIwY2hpY2tlbnxlbnwwfHx8fDE3NjcxODIyOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grilled chicken"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Costillas ahumadas",
+      "imageUrl": "https://images.unsplash.com/photo-1705509444110-e1c9392dbed1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzbW9rZWQlMjByaWJzfGVufDB8fHx8MTc2NzIxMDQ2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smoked ribs"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Pizza en horno de leña",
+      "imageUrl": "https://images.unsplash.com/photo-1622880833523-7cf1c0bd4296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaXp6YSUyMG92ZW58ZW58MHx8fHwxNzY3MjEwNDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pizza oven"
+    }
+  ]
+}
