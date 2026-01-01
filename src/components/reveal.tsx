@@ -38,11 +38,12 @@ export function Reveal({ children, className, delay }: RevealProps) {
     };
   }, []);
 
-  const delayClass = {
+  const delayMapping = {
     '100': 'delay-100',
     '200': 'delay-200',
     '300': 'delay-300',
-  }[delay || ''] || '';
+  };
+  const delayClass = delay ? delayMapping[delay] : '';
 
   return (
     <div
